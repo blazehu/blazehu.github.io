@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blazehu.github.io/2019/08/14/cloudnative/docker_introduction/</loc>
+    
+    <lastmod>2021-12-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blazehu.github.io/2019/08/18/cloudnative/docker_base/</loc>
+    
+    <lastmod>2021-12-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blazehu.github.io/2018/07/21/golang/golang_rabbitmq/</loc>
     
     <lastmod>2021-12-04</lastmod>
@@ -30,24 +48,6 @@
   
   <url>
     <loc>https://blazehu.github.io/2018/06/12/common/Kong%20%E7%AE%80%E4%BB%8B/</loc>
-    
-    <lastmod>2021-12-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blazehu.github.io/2018/08/18/cloudnative/docker_base/</loc>
-    
-    <lastmod>2021-12-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blazehu.github.io/2018/08/14/cloudnative/docker_introduction/</loc>
     
     <lastmod>2021-12-03</lastmod>
     
