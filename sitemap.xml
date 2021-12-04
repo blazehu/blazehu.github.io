@@ -2,18 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blazehu.github.io/2019/07/21/golang/Golang%20%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97%E4%B9%8B%20RabbitMQ/</loc>
+    <loc>https://blazehu.github.io/2018/07/12/golang/golang_sort/</loc>
     
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blazehu.github.io/2019/07/13/golang/Golang%20%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/</loc>
+    <loc>https://blazehu.github.io/2018/07/13/golang/golang_singleton/</loc>
     
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blazehu.github.io/2018/07/21/golang/golang_rabbitmq/</loc>
+    
+    <lastmod>2021-12-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -652,7 +661,7 @@
 
   <url>
     <loc>https://blazehu.github.io/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -660,175 +669,175 @@
   
   <url>
     <loc>https://blazehu.github.io/tags/c/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/Kong/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/API-%E7%BD%91%E5%85%B3/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/CSRF/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/Siege/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/leetcode/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/Golang/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/Rundeck/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/RabbitMQ/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/MySQL/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/AWS/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/RDS/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/Nginx/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/PostgreSQL/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/Python/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/Sanic/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/ansible/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/ops/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/aws/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/tags/docker/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -837,35 +846,35 @@
   
   <url>
     <loc>https://blazehu.github.io/categories/Golang/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/categories/Nginx/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/categories/Python/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/categories/DB/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blazehu.github.io/categories/CloudNative/</loc>
-    <lastmod>2021-12-03</lastmod>
+    <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
