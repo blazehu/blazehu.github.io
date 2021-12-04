@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blazehu.github.io/2021/12/05/cloudnative/tic/</loc>
+    <loc>https://blazehu.github.io/2021/12/05/cloudnative/terraform/</loc>
     
     <lastmod>2021-12-04</lastmod>
     
@@ -11,7 +11,16 @@
   </url>
   
   <url>
-    <loc>https://blazehu.github.io/2021/12/04/cloudnative/helm3/</loc>
+    <loc>https://blazehu.github.io/2021/12/04/cloudnative/tic/</loc>
+    
+    <lastmod>2021-12-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blazehu.github.io/2021/12/03/cloudnative/helm3/</loc>
     
     <lastmod>2021-12-04</lastmod>
     
@@ -869,6 +878,13 @@
   
   <url>
     <loc>https://blazehu.github.io/tags/IaC/</loc>
+    <lastmod>2021-12-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blazehu.github.io/tags/%E8%B5%84%E6%BA%90%E7%BC%96%E6%8E%92/</loc>
     <lastmod>2021-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

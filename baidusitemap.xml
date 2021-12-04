@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://blazehu.github.io/2021/12/05/cloudnative/tic/</loc>
+    <loc>https://blazehu.github.io/2021/12/05/cloudnative/terraform/</loc>
     <lastmod>2021-12-04</lastmod>
   </url>
   <url>
-    <loc>https://blazehu.github.io/2021/12/04/cloudnative/helm3/</loc>
+    <loc>https://blazehu.github.io/2021/12/04/cloudnative/tic/</loc>
+    <lastmod>2021-12-04</lastmod>
+  </url>
+  <url>
+    <loc>https://blazehu.github.io/2021/12/03/cloudnative/helm3/</loc>
     <lastmod>2021-12-04</lastmod>
   </url>
   <url>
