@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blazehu.github.io/2021/12/04/cloudnative/helm3/</loc>
+    <lastmod>2021-12-04</lastmod>
+  </url>
+  <url>
+    <loc>https://blazehu.github.io/2019/09/21/ops/Rundeck%20%E7%AE%80%E4%BB%8B/</loc>
+    <lastmod>2021-12-04</lastmod>
+  </url>
+  <url>
+    <loc>https://blazehu.github.io/2019/07/12/golang/golang_sort/</loc>
+    <lastmod>2021-12-04</lastmod>
+  </url>
+  <url>
+    <loc>https://blazehu.github.io/2019/07/13/golang/golang_singleton/</loc>
+    <lastmod>2021-12-04</lastmod>
+  </url>
+  <url>
+    <loc>https://blazehu.github.io/2019/07/21/golang/golang_rabbitmq/</loc>
+    <lastmod>2021-12-04</lastmod>
+  </url>
+  <url>
+    <loc>https://blazehu.github.io/2020/03/24/pgsql/PostgreSQL%20%E4%B8%BB%E4%BB%8E%E5%90%8C%E6%AD%A5/</loc>
+    <lastmod>2021-12-04</lastmod>
+  </url>
+  <url>
+    <loc>https://blazehu.github.io/2020/03/23/pgsql/PostgreSQL%20%E4%B9%8B%20pg_stat_statements/</loc>
+    <lastmod>2021-12-04</lastmod>
+  </url>
+  <url>
+    <loc>https://blazehu.github.io/2020/03/22/pgsql/PostgreSQL%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2021-12-04</lastmod>
+  </url>
+  <url>
     <loc>https://blazehu.github.io/2018/05/14/cloudnative/container/</loc>
     <lastmod>2021-12-04</lastmod>
   </url>
@@ -17,31 +49,7 @@
     <lastmod>2021-12-04</lastmod>
   </url>
   <url>
-    <loc>https://blazehu.github.io/2018/07/21/golang/golang_rabbitmq/</loc>
-    <lastmod>2021-12-04</lastmod>
-  </url>
-  <url>
-    <loc>https://blazehu.github.io/2018/07/13/golang/golang_singleton/</loc>
-    <lastmod>2021-12-04</lastmod>
-  </url>
-  <url>
-    <loc>https://blazehu.github.io/2018/07/12/golang/golang_sort/</loc>
-    <lastmod>2021-12-04</lastmod>
-  </url>
-  <url>
     <loc>https://blazehu.github.io/2018/06/12/common/Kong%20%E7%AE%80%E4%BB%8B/</loc>
-    <lastmod>2021-12-03</lastmod>
-  </url>
-  <url>
-    <loc>https://blazehu.github.io/2019/11/23/pgsql/PostgreSQL%20%E4%B9%8B%20pg_stat_statements/</loc>
-    <lastmod>2021-12-03</lastmod>
-  </url>
-  <url>
-    <loc>https://blazehu.github.io/2019/11/24/pgsql/PostgreSQL%20%E4%B8%BB%E4%BB%8E%E5%90%8C%E6%AD%A5/</loc>
-    <lastmod>2021-12-03</lastmod>
-  </url>
-  <url>
-    <loc>https://blazehu.github.io/2019/11/22/pgsql/PostgreSQL%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2021-12-03</lastmod>
   </url>
   <url>
@@ -62,10 +70,6 @@
   </url>
   <url>
     <loc>https://blazehu.github.io/2017/08/12/nginx/nginx%20%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1/</loc>
-    <lastmod>2021-12-03</lastmod>
-  </url>
-  <url>
-    <loc>https://blazehu.github.io/2019/05/21/ops/Rundeck%20%E7%AE%80%E4%BB%8B/</loc>
     <lastmod>2021-12-03</lastmod>
   </url>
   <url>
