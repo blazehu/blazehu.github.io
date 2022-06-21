@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blazehu.github.io/2022/04/01/cloudnative/fluxcd/</loc>
+    <lastmod>2022-04-11</lastmod>
+  </url>
+  <url>
     <loc>https://blazehu.github.io/2022/03/11/cloudnative/terraform-controller/</loc>
-    <lastmod>2022-03-11</lastmod>
+    <lastmod>2022-04-11</lastmod>
   </url>
   <url>
     <loc>https://blazehu.github.io/2022/03/10/cloudnative/admission_webhooks/</loc>
