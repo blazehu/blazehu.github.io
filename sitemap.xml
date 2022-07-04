@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blazehu.github.io/2017/08/14/nginx/nginx_location/</loc>
+    <loc>https://blazehu.github.io/2017/08/14/nginx/keepalive/</loc>
+    
+    <lastmod>2022-07-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blazehu.github.io/2017/08/15/nginx/nginx_location/</loc>
     
     <lastmod>2022-07-04</lastmod>
     
