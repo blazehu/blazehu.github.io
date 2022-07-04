@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blazehu.github.io/2017/08/14/nginx/keepalive/</loc>
+    <loc>https://blazehu.github.io/2022/06/28/cloudnative/ipapk_failed/</loc>
     
     <lastmod>2022-07-04</lastmod>
     
@@ -11,7 +11,25 @@
   </url>
   
   <url>
-    <loc>https://blazehu.github.io/2017/08/15/nginx/nginx_location/</loc>
+    <loc>https://blazehu.github.io/2017/05/21/common/siege/</loc>
+    
+    <lastmod>2022-07-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blazehu.github.io/2017/09/12/common/kong_study/</loc>
+    
+    <lastmod>2022-07-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blazehu.github.io/2017/08/12/nginx/study_notes/</loc>
     
     <lastmod>2022-07-04</lastmod>
     
@@ -29,7 +47,16 @@
   </url>
   
   <url>
-    <loc>https://blazehu.github.io/2017/08/12/nginx/study_notes/</loc>
+    <loc>https://blazehu.github.io/2017/08/14/nginx/keepalive/</loc>
+    
+    <lastmod>2022-07-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blazehu.github.io/2017/08/15/nginx/nginx_location/</loc>
     
     <lastmod>2022-07-04</lastmod>
     
@@ -596,15 +623,6 @@
   </url>
   
   <url>
-    <loc>https://blazehu.github.io/2017/05/21/common/siege/</loc>
-    
-    <lastmod>2022-03-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blazehu.github.io/2021/12/05/cloudnative/tic/</loc>
     
     <lastmod>2022-03-10</lastmod>
@@ -624,15 +642,6 @@
   
   <url>
     <loc>https://blazehu.github.io/2021/12/02/common/ip/</loc>
-    
-    <lastmod>2022-03-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blazehu.github.io/2017/09/12/common/kong_study/</loc>
     
     <lastmod>2022-03-10</lastmod>
     
@@ -1019,6 +1028,20 @@
   
   <url>
     <loc>https://blazehu.github.io/tags/FluxCD/</loc>
+    <lastmod>2022-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blazehu.github.io/tags/CLB/</loc>
+    <lastmod>2022-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blazehu.github.io/tags/%E8%85%BE%E8%AE%AF%E4%BA%91/</loc>
     <lastmod>2022-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
