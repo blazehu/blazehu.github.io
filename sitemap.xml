@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blazehu.github.io/2019/07/21/golang/golang_rabbitmq/</loc>
+    
+    <lastmod>2022-08-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blazehu.github.io/2022/07/08/cloudnative/kubebuilder_watch_resource/</loc>
+    
+    <lastmod>2022-08-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blazehu.github.io/2022/04/12/cloudnative/kubebuilder_admission_webhooks/</loc>
     
     <lastmod>2022-08-12</lastmod>
@@ -209,15 +227,6 @@
   </url>
   
   <url>
-    <loc>https://blazehu.github.io/2019/07/21/golang/golang_rabbitmq/</loc>
-    
-    <lastmod>2022-07-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blazehu.github.io/2015/08/15/ops/aws_mount_disk/</loc>
     
     <lastmod>2022-07-29</lastmod>
@@ -399,15 +408,6 @@
   
   <url>
     <loc>https://blazehu.github.io/2017/09/12/common/kong_study/</loc>
-    
-    <lastmod>2022-07-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blazehu.github.io/2022/07/08/cloudnative/kubebuilder_watch_resource/</loc>
     
     <lastmod>2022-07-26</lastmod>
     
