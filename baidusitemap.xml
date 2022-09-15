@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blazehu.github.io/2022/09/13/common/ubuntu_install_perf/</loc>
+    <lastmod>2022-09-15</lastmod>
+  </url>
+  <url>
     <loc>https://blazehu.github.io/2016/10/10/ops/ansible_intro/</loc>
     <lastmod>2022-09-06</lastmod>
   </url>
@@ -53,7 +57,7 @@
     <lastmod>2022-08-10</lastmod>
   </url>
   <url>
-    <loc>https://blazehu.github.io/2022/07/09/cloudnative/ipapk_failed/</loc>
+    <loc>https://blazehu.github.io/2022/07/09/common/ipapk_failed/</loc>
     <lastmod>2022-08-10</lastmod>
   </url>
   <url>
