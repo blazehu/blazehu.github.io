@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blazehu.github.io/2022/08/21/common/ipapk_failed/</loc>
+    <lastmod>2022-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://blazehu.github.io/2022/08/16/cloudnative/k8s_csr_tls/</loc>
+    <lastmod>2022-10-08</lastmod>
+  </url>
+  <url>
     <loc>https://blazehu.github.io/2022/09/14/cloudnative/perf_analyse/</loc>
     <lastmod>2022-09-16</lastmod>
   </url>
@@ -33,10 +41,6 @@
     <lastmod>2022-08-16</lastmod>
   </url>
   <url>
-    <loc>https://blazehu.github.io/2022/08/16/cloudnative/k8s_csr_tls/</loc>
-    <lastmod>2022-08-16</lastmod>
-  </url>
-  <url>
     <loc>https://blazehu.github.io/2019/07/21/golang/golang_rabbitmq/</loc>
     <lastmod>2022-08-12</lastmod>
   </url>
@@ -58,10 +62,6 @@
   </url>
   <url>
     <loc>https://blazehu.github.io/2021/12/05/cloudnative/terraform/</loc>
-    <lastmod>2022-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://blazehu.github.io/2022/07/09/common/ipapk_failed/</loc>
     <lastmod>2022-08-10</lastmod>
   </url>
   <url>
