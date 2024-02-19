@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blazehu.github.io/2022/10/30/cloudnative/argocd_sse/</loc>
+    
+    <lastmod>2024-02-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blazehu.github.io/2023/10/25/cloudnative/argocd_webhook/</loc>
+    
+    <lastmod>2024-02-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blazehu.github.io/2022/08/21/common/ipapk_failed/</loc>
     
     <lastmod>2024-02-19</lastmod>
@@ -23,24 +41,6 @@
     <loc>https://blazehu.github.io/2023/11/21/golang/golang_pb/</loc>
     
     <lastmod>2023-11-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blazehu.github.io/2022/10/30/cloudnative/argocd_sse/</loc>
-    
-    <lastmod>2023-11-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blazehu.github.io/2023/10/25/cloudnative/argocd_webhook/</loc>
-    
-    <lastmod>2023-11-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1045,6 +1045,13 @@
   </url>
   
   <url>
+    <loc>https://blazehu.github.io/tags/argocd/</loc>
+    <lastmod>2024-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blazehu.github.io/tags/grpc/</loc>
     <lastmod>2024-02-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -1067,6 +1074,13 @@
   
   <url>
     <loc>https://blazehu.github.io/tags/ipapk/</loc>
+    <lastmod>2024-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blazehu.github.io/tags/sse/</loc>
     <lastmod>2024-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
