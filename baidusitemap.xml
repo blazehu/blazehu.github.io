@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://blazehu.github.io/2023/10/30/cloudnative/argocd_sse/</loc>
-    <lastmod>2024-02-21</lastmod>
+    <loc>https://blazehu.github.io/2023/01/12/golang/golang_pb/</loc>
+    <lastmod>2024-02-22</lastmod>
+  </url>
+  <url>
+    <loc>https://blazehu.github.io/2023/11/30/cloudnative/argocd_sse/</loc>
+    <lastmod>2024-02-22</lastmod>
   </url>
   <url>
     <loc>https://blazehu.github.io/2023/10/25/cloudnative/argocd_webhook/</loc>
@@ -15,10 +19,6 @@
   <url>
     <loc>https://blazehu.github.io/2024/02/18/golang/golang_archive_zip/</loc>
     <lastmod>2024-02-19</lastmod>
-  </url>
-  <url>
-    <loc>https://blazehu.github.io/2023/11/21/golang/golang_pb/</loc>
-    <lastmod>2023-11-27</lastmod>
   </url>
   <url>
     <loc>https://blazehu.github.io/2023/01/30/common/g6_tree_demo/</loc>
