@@ -232,9 +232,9 @@
     <category term="DevOps" scheme="https://blazehu.github.io/categories/DevOps/"/>
     
     
-    <category term="腾讯云" scheme="https://blazehu.github.io/tags/%E8%85%BE%E8%AE%AF%E4%BA%91/"/>
-    
     <category term="蓝盾" scheme="https://blazehu.github.io/tags/%E8%93%9D%E7%9B%BE/"/>
+    
+    <category term="腾讯云" scheme="https://blazehu.github.io/tags/%E8%85%BE%E8%AE%AF%E4%BA%91/"/>
     
   </entry>
   
@@ -375,9 +375,9 @@
     <category term="CloudNative" scheme="https://blazehu.github.io/categories/CloudNative/"/>
     
     
-    <category term="iac" scheme="https://blazehu.github.io/tags/iac/"/>
-    
     <category term="k8s" scheme="https://blazehu.github.io/tags/k8s/"/>
+    
+    <category term="iac" scheme="https://blazehu.github.io/tags/iac/"/>
     
   </entry>
   
