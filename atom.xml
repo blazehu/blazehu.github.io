@@ -6,7 +6,7 @@
   <link href="https://blazehu.github.io/atom.xml" rel="self"/>
   
   <link href="https://blazehu.github.io/"/>
-  <updated>2025-07-15T07:23:39.233Z</updated>
+  <updated>2025-07-15T07:26:22.608Z</updated>
   <id>https://blazehu.github.io/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="https://blazehu.github.io/2025/07/15/ops/demo/"/>
     <id>https://blazehu.github.io/2025/07/15/ops/demo/</id>
     <published>2025-07-14T16:00:00.000Z</published>
-    <updated>2025-07-15T07:23:39.233Z</updated>
+    <updated>2025-07-15T07:26:22.608Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/2025/07/15/ops/demo/demo.gif" alt="描述文字"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2025/07/15/ops/demo/demo.gif" alt="描述文字"></p><p><img src="/2025/07/15/ops/demo/demo1.gif" alt="描述文字"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2025/07/15/ops/demo/demo.gif&quot; alt=&quot;描述文字&quot;&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2025/07/15/ops/demo/demo.gif&quot; alt=&quot;描述文字&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;/2025/07/15/ops/demo/demo1.gif&quot; alt=&quot;描述文字&quot;&gt;&lt;/p&gt;</summary>
       
     
     
@@ -101,9 +101,9 @@
     <category term="DevOps" scheme="https://blazehu.github.io/categories/DevOps/"/>
     
     
-    <category term="蓝盾" scheme="https://blazehu.github.io/tags/%E8%93%9D%E7%9B%BE/"/>
-    
     <category term="k8s" scheme="https://blazehu.github.io/tags/k8s/"/>
+    
+    <category term="蓝盾" scheme="https://blazehu.github.io/tags/%E8%93%9D%E7%9B%BE/"/>
     
     <category term="clb" scheme="https://blazehu.github.io/tags/clb/"/>
     
@@ -390,9 +390,9 @@
     <category term="CloudNative" scheme="https://blazehu.github.io/categories/CloudNative/"/>
     
     
-    <category term="k8s" scheme="https://blazehu.github.io/tags/k8s/"/>
-    
     <category term="kubebuilder" scheme="https://blazehu.github.io/tags/kubebuilder/"/>
+    
+    <category term="k8s" scheme="https://blazehu.github.io/tags/k8s/"/>
     
   </entry>
   
@@ -413,9 +413,9 @@
     <category term="CloudNative" scheme="https://blazehu.github.io/categories/CloudNative/"/>
     
     
-    <category term="k8s" scheme="https://blazehu.github.io/tags/k8s/"/>
-    
     <category term="kubebuilder" scheme="https://blazehu.github.io/tags/kubebuilder/"/>
+    
+    <category term="k8s" scheme="https://blazehu.github.io/tags/k8s/"/>
     
   </entry>
   
@@ -439,9 +439,9 @@
     <category term="CloudNative" scheme="https://blazehu.github.io/categories/CloudNative/"/>
     
     
-    <category term="k8s" scheme="https://blazehu.github.io/tags/k8s/"/>
-    
     <category term="kubebuilder" scheme="https://blazehu.github.io/tags/kubebuilder/"/>
+    
+    <category term="k8s" scheme="https://blazehu.github.io/tags/k8s/"/>
     
   </entry>
   
@@ -462,9 +462,9 @@
     <category term="CloudNative" scheme="https://blazehu.github.io/categories/CloudNative/"/>
     
     
-    <category term="k8s" scheme="https://blazehu.github.io/tags/k8s/"/>
-    
     <category term="kubebuilder" scheme="https://blazehu.github.io/tags/kubebuilder/"/>
+    
+    <category term="k8s" scheme="https://blazehu.github.io/tags/k8s/"/>
     
   </entry>
   
