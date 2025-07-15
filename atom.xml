@@ -6,7 +6,7 @@
   <link href="https://blazehu.github.io/atom.xml" rel="self"/>
   
   <link href="https://blazehu.github.io/"/>
-  <updated>2025-07-15T06:59:35.008Z</updated>
+  <updated>2025-07-15T07:16:23.152Z</updated>
   <id>https://blazehu.github.io/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>测试</title>
+    <title>测试插入视频</title>
     <link href="https://blazehu.github.io/2025/07/15/ops/demo/"/>
     <id>https://blazehu.github.io/2025/07/15/ops/demo/</id>
     <published>2025-07-14T16:00:00.000Z</published>
-    <updated>2025-07-15T06:59:35.008Z</updated>
+    <updated>2025-07-15T07:16:23.152Z</updated>
     
-    <content type="html"><![CDATA[<video width="640" height="360" controls><source src="/source/video/20250715141546.webm" type="video/webm">您的浏览器不支持 WebM 视频格式。</video>]]></content>
+    <content type="html"><![CDATA[<video width="640" height="360" controls><source src="./demo/20250715141546.webm" type="video/webm"></video>]]></content>
     
     
       
       
-    <summary type="html">&lt;video width=&quot;640&quot; height=&quot;360&quot; controls&gt;&lt;source src=&quot;/source/video/20250715141546.webm&quot; type=&quot;video/webm&quot;&gt;您的浏览器不支持 WebM 视频格式。&lt;/video&gt;</summary>
+    <summary type="html">&lt;video width=&quot;640&quot; height=&quot;360&quot; controls&gt;&lt;source src=&quot;./demo/20250715141546.webm&quot; type=&quot;video/webm&quot;&gt;&lt;/video&gt;</summary>
       
     
     
