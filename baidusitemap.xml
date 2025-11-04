@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blazehu.github.io/2024/05/08/cloudnative/k8s_lo/</loc>
+    <lastmod>2025-11-04</lastmod>
+  </url>
+  <url>
     <loc>https://blazehu.github.io/2024/09/22/cloudnative/istio_install/</loc>
     <lastmod>2025-11-04</lastmod>
   </url>
@@ -309,15 +313,7 @@
     <lastmod>2022-06-21</lastmod>
   </url>
   <url>
-    <loc>https://blazehu.github.io/2018/07/10/leetcode-cn/1154/</loc>
-    <lastmod>2022-06-21</lastmod>
-  </url>
-  <url>
     <loc>https://blazehu.github.io/2018/03/11/leetcode-cn/11/</loc>
-    <lastmod>2022-06-21</lastmod>
-  </url>
-  <url>
-    <loc>https://blazehu.github.io/2018/03/14/leetcode-cn/14/</loc>
     <lastmod>2022-06-21</lastmod>
   </url>
   <url>
@@ -325,11 +321,23 @@
     <lastmod>2022-06-21</lastmod>
   </url>
   <url>
-    <loc>https://blazehu.github.io/2018/03/15/leetcode-cn/15/</loc>
+    <loc>https://blazehu.github.io/2018/07/10/leetcode-cn/1154/</loc>
     <lastmod>2022-06-21</lastmod>
   </url>
   <url>
     <loc>https://blazehu.github.io/2018/03/12/leetcode-cn/12/</loc>
+    <lastmod>2022-06-21</lastmod>
+  </url>
+  <url>
+    <loc>https://blazehu.github.io/2018/03/13/leetcode-cn/13/</loc>
+    <lastmod>2022-06-21</lastmod>
+  </url>
+  <url>
+    <loc>https://blazehu.github.io/2018/03/14/leetcode-cn/14/</loc>
+    <lastmod>2022-06-21</lastmod>
+  </url>
+  <url>
+    <loc>https://blazehu.github.io/2018/03/15/leetcode-cn/15/</loc>
     <lastmod>2022-06-21</lastmod>
   </url>
   <url>
@@ -338,10 +346,6 @@
   </url>
   <url>
     <loc>https://blazehu.github.io/2018/03/17/leetcode-cn/17/</loc>
-    <lastmod>2022-06-21</lastmod>
-  </url>
-  <url>
-    <loc>https://blazehu.github.io/2018/03/13/leetcode-cn/13/</loc>
     <lastmod>2022-06-21</lastmod>
   </url>
   <url>
@@ -361,11 +365,19 @@
     <lastmod>2022-06-21</lastmod>
   </url>
   <url>
+    <loc>https://blazehu.github.io/2018/03/21/leetcode-cn/21/</loc>
+    <lastmod>2022-06-21</lastmod>
+  </url>
+  <url>
     <loc>https://blazehu.github.io/2018/03/22/leetcode-cn/22/</loc>
     <lastmod>2022-06-21</lastmod>
   </url>
   <url>
     <loc>https://blazehu.github.io/2018/03/23/leetcode-cn/23/</loc>
+    <lastmod>2022-06-21</lastmod>
+  </url>
+  <url>
+    <loc>https://blazehu.github.io/2018/03/24/leetcode-cn/24/</loc>
     <lastmod>2022-06-21</lastmod>
   </url>
   <url>
@@ -389,11 +401,11 @@
     <lastmod>2022-06-21</lastmod>
   </url>
   <url>
-    <loc>https://blazehu.github.io/2018/03/21/leetcode-cn/21/</loc>
+    <loc>https://blazehu.github.io/2018/04/04/leetcode-cn/34/</loc>
     <lastmod>2022-06-21</lastmod>
   </url>
   <url>
-    <loc>https://blazehu.github.io/2018/04/04/leetcode-cn/34/</loc>
+    <loc>https://blazehu.github.io/2018/06/10/leetcode-cn/475/</loc>
     <lastmod>2022-06-21</lastmod>
   </url>
   <url>
@@ -409,10 +421,6 @@
     <lastmod>2022-06-21</lastmod>
   </url>
   <url>
-    <loc>https://blazehu.github.io/2018/03/24/leetcode-cn/24/</loc>
-    <lastmod>2022-06-21</lastmod>
-  </url>
-  <url>
     <loc>https://blazehu.github.io/2018/03/07/leetcode-cn/7/</loc>
     <lastmod>2022-06-21</lastmod>
   </url>
@@ -421,15 +429,11 @@
     <lastmod>2022-06-21</lastmod>
   </url>
   <url>
-    <loc>https://blazehu.github.io/2018/03/09/leetcode-cn/9/</loc>
-    <lastmod>2022-06-21</lastmod>
-  </url>
-  <url>
-    <loc>https://blazehu.github.io/2018/06/10/leetcode-cn/475/</loc>
-    <lastmod>2022-06-21</lastmod>
-  </url>
-  <url>
     <loc>https://blazehu.github.io/2018/03/03/leetcode-cn/3/</loc>
+    <lastmod>2022-06-21</lastmod>
+  </url>
+  <url>
+    <loc>https://blazehu.github.io/2018/03/09/leetcode-cn/9/</loc>
     <lastmod>2022-06-21</lastmod>
   </url>
 </urlset> 
